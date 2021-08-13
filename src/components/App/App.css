@@ -1,0 +1,6 @@
+body{
+    background: hsl(246, 57%, 15%);
+    overflow-x : hidden;
+    color: rgb(222, 233, 247);
+    font-family: 'Lato', sans-serif;
+}
