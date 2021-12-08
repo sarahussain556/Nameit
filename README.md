@@ -1,4 +1,4 @@
-#Link-[https://sarahussain556.github.io/Nameit/](url)
+#Link-https://sarahussain556.github.io/Nameit/
 
 # Getting Started with Create React App
 
